@@ -1,8 +1,37 @@
-# React + Vite
+# Giphy Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive Giphy Clone application built with **React** and styled using **Tailwind CSS**, leveraging the **Giphy API** to search and display GIFs dynamically.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **GIF Search:** Search for your favorite GIFs in real-time.
+- **Responsive Design:** Optimized for all screen sizes using Tailwind CSS.
+- **API Integration:** Powered by the Giphy API for fetching trending and searched GIFs.
+- **User-Friendly Interface:** Clean and intuitive UI for seamless interaction.
+
+---
+
+## Tech Stack
+
+- **React:** Frontend library for building UI components.
+- **Tailwind CSS:** Utility-first CSS framework for styling.
+- **Giphy API:** Provides the GIFs data for the application.
+
+---
+
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed on your system:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+### Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yourusername/giphy-clone.git
